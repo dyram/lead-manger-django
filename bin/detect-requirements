@@ -1,0 +1,3 @@
+#!/home/system12/django/leadmanager/bin/python2.7
+from requirements_detector.run import run
+run()
